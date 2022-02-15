@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @Tomash-Pietrzak
-- 👀 I’m interested in becoming a Java Developer
-- 🌱 I’m currently learning Spring Boot, Java, SQL, using Git etc.
-- 💞️ I’m looking to collaborate.
+- 🌱 I’m currently learning Angular, Spring Boot, SQL.
 - 📫 How to reach me tomaszpietrzak14@gmail.com
 
 <!---
